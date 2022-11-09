@@ -1,5 +1,9 @@
-<h1 align="center">Hi 👋, I'm Francis</h1>
+<h1 align="center">Hi 👋, I'm Francis Boafo.</h1>
 <h3 align="center">A passionate frontend developer from Ghana currently residing in Mikkeli, Finland.</h3>
+
+- 🌱 I’m currently learning **Predictive Analytics with Python, CSS, HTML, Social and digital media analytics,**
+
+- 👨‍💻 All of my projects are available at [https://github.com/Franxbj](https://github.com/Franxbj)
 
 - ⚡ Fun fact **I think i am funny.**
 
